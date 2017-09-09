@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='tongdaiviettel-hcm.com' target='_blank'><img src='http://faceseo.vn/bannerweb/hoc-seo-chuyen-sau.jpg' width='500px'/><br/>lắp đặt wifi viettel</a>. Viettel quận tân bình. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='tongdaiviettel-hcm.com' target='_blank'><img src='https://4.bp.blogspot.com/-4jbfnsliJNI/WbFRLfMBQ5I/AAAAAAAAALw/uMBLJY2rMdQCsXfjO1UNYTk7BgCqOFPnQCLcBGAs/s1600/images.jpg' width='500px'/><br/>lắp đặt wifi viettel</a>. Viettel quận tân bình. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
